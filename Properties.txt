@@ -1,0 +1,28 @@
+Iqbal Town A, iqbal, 1, 1, 250, 60
+Iqbal Town B, iqbal, 3, 1, 300, 70
+Metro Station, station, 5, 2, 2000, 200
+Kareem Block, iqbal, 6, 1, 400, 100
+Johar Town A, johar, 8, 1, 200, 80
+Johar Town B, johar, 9, 1, 250, 90
+Faisal Town A, faisal, 11, 1, 300, 100
+WASA, utility, 12, 2, 4000, 400
+Faisal Town B, faisal, 13, 1, 400, 130
+PTCL, utility, 14, 2, 8000, 500
+Bus Station, station, 15, 2, 2000, 200
+Faisal Town C, faisal, 16, 1, 400, 130
+Model Town A, model, 18, 1, 800, 200
+Model Town B, model, 19, 1, 850, 250
+Link Road, model, 21, 1, 2000, 500
+Gulberg A, gulberg, 23, 1, 1000, 300
+SUI, utility, 24, 2, 2500, 350
+Railway Station, station, 25, 2, 2500, 350
+Gulberg B, gulberg, 26, 1, 1200, 350
+Liberty, gulberg, 27, 1, 2500, 600
+LESCO, utility, 28, 2, 5000, 450
+DHA A, dha, 29, 1, 2000, 500
+DHA B, dha, 31, 1, 2000, 500
+Y Block, dha, 32, 1, 2500, 1000
+Bahria Town A, bahria, 34, 1, 2500, 800
+Orange Train, station, 35, 2, 2500, 350
+Bahria Town B, bahria, 37, 1, 3000, 900
+Bahria Town C, bahria, 39, 1, 3000, 1000
